@@ -1,5 +1,5 @@
 # Cats-And-Mice
-**Project made for Introduction to Artificial Intelligence class at ISEC. Project made in NetLogo.**\
+**Project carried out for Introduction to Artificial Intelligence class at ISEC. Project made in NetLogo.**\
 The objectives of this work are to design, implement and analyze behaviors
 rationales for reactive agents.
 - **First task:**
